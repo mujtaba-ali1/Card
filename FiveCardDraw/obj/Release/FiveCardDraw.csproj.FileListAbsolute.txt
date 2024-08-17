@@ -1,0 +1,10 @@
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\FiveCardDraw\bin\Release\FiveCardDraw.exe.config
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\FiveCardDraw\bin\Release\FiveCardDraw.exe
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\FiveCardDraw\bin\Release\FiveCardDraw.pdb
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\FiveCardDraw\bin\Release\Poker_Library.dll
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\FiveCardDraw\bin\Release\Poker_Library.pdb
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\FiveCardDraw\obj\Release\FiveCardDraw.csproj.AssemblyReference.cache
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\FiveCardDraw\obj\Release\FiveCardDraw.csproj.CoreCompileInputs.cache
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\FiveCardDraw\obj\Release\FiveCard.0639968B.Up2Date
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\FiveCardDraw\obj\Release\FiveCardDraw.exe
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\FiveCardDraw\obj\Release\FiveCardDraw.pdb

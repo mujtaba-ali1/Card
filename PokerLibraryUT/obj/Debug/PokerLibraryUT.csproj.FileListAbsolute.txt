@@ -1,0 +1,17 @@
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerLibraryUT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerLibraryUT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerLibraryUT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerLibraryUT\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerLibraryUT\bin\Debug\PokerLibraryUT.dll
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerLibraryUT\bin\Debug\PokerLibraryUT.pdb
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerLibraryUT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerLibraryUT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerLibraryUT\bin\Debug\Poker_Library.dll
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerLibraryUT\bin\Debug\Poker_Library.pdb
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerLibraryUT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerLibraryUT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerLibraryUT\obj\Debug\PokerLibraryUT.csproj.AssemblyReference.cache
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerLibraryUT\obj\Debug\PokerLibraryUT.csproj.CoreCompileInputs.cache
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerLibraryUT\obj\Debug\PokerLib.E0DAE422.Up2Date
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerLibraryUT\obj\Debug\PokerLibraryUT.dll
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerLibraryUT\obj\Debug\PokerLibraryUT.pdb

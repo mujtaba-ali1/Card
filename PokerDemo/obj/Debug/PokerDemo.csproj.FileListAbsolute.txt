@@ -1,0 +1,10 @@
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerDemo\bin\Debug\PokerDemo.exe.config
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerDemo\bin\Debug\PokerDemo.exe
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerDemo\bin\Debug\PokerDemo.pdb
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerDemo\bin\Debug\Poker_Library.dll
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerDemo\bin\Debug\Poker_Library.pdb
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerDemo\obj\Debug\PokerDemo.csproj.AssemblyReference.cache
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerDemo\obj\Debug\PokerDemo.csproj.CoreCompileInputs.cache
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerDemo\obj\Debug\PokerDemo.csproj.Up2Date
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerDemo\obj\Debug\PokerDemo.exe
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\PokerDemo\obj\Debug\PokerDemo.pdb

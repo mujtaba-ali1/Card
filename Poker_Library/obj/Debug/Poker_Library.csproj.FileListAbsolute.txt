@@ -1,0 +1,6 @@
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\Poker_Library\bin\Debug\Poker_Library.dll
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\Poker_Library\bin\Debug\Poker_Library.pdb
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\Poker_Library\obj\Debug\Poker_Library.csproj.AssemblyReference.cache
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\Poker_Library\obj\Debug\Poker_Library.csproj.CoreCompileInputs.cache
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\Poker_Library\obj\Debug\Poker_Library.dll
+C:\Users\mujta\source\repos\FirstProject\Poker_Game\Poker_Library\obj\Debug\Poker_Library.pdb
